@@ -6,5 +6,7 @@ position: relative;
   min-height: 550px;
   display: flex;
   justify-content: end;
+  max-width: 1500px;
+  margin: 0 auto;
 `
 

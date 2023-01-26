@@ -10,3 +10,15 @@ position: relative;
 
     `
 
+export const Copyright = styled.div`
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: max-content;
+  margin-left: 20px;
+  padding: 10px;
+  height: 100%;
+
+
+`
